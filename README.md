@@ -9,4 +9,4 @@ edit redmine-titles to add your api key
 
 usage
 =====
-```./redmine-title [issue number]
+```./redmine-title [issue number]```
