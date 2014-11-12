@@ -1,0 +1,14 @@
+{
+    "name": "larowlan/redmine-titles",
+    "description": "Simple script to get a redmine title based on issue number",
+    "require": {
+        "kbsali/redmine-api": "~1.5"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Lee Rowlands",
+            "email": "lee.rowlands@previousnext.com.au"
+        }
+    ]
+}
